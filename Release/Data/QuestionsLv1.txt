@@ -1,0 +1,20 @@
+What colour is a tomato?
+Red
+What colour is a carrot?
+Orange
+What colour is the sun?
+Yellow
+What colour is grass?
+green
+What colour is the sky?
+Blue
+What colour is a pig?
+Pink
+What colour are grapes?
+Purple
+What colour is coal?
+black
+What colour is mud?
+brown
+What colour is salt?
+white
